@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            int myAge = 87
+            int myAge = 87;
         }
     }
 }
